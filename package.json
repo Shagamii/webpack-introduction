@@ -1,0 +1,9 @@
+{
+  "name": "webpack_sample",
+  "scripts": {
+    "build": "webpack && node output/bundle.js"
+  },
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
+}
